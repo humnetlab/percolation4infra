@@ -4,7 +4,9 @@ Urban congestion increases travel delay, fuel use, and vehicle emissions. A comm
 
 We address this question using traffic percolation. During the morning peak, congestion does not spread uniformly across the road network. Instead, scattered congested road sections rapidly merge into a large connected cluster. This transition reveals a small set of structurally important intersections that help connect otherwise separated congested clusters. We identify these intersections with a fragmentation-index criterion and evaluate whether upgrading them from fixed-time to actuated signal control outperforms random upgrades.
 
-The workflow is summarized in [`fig0_panel.pdf`](fig0_panel.pdf).
+The workflow is summarized in below.
+
+![Percolation-informed infrastructure upgrade workflow](fig0_panel.png)
 
 In brief, the project:
 
