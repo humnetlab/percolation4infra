@@ -6,7 +6,7 @@ We address this question using traffic percolation. During the morning peak, con
 
 The workflow is summarized in below.
 
-![Percolation-informed infrastructure upgrade workflow](fig0_panel.pdf)
+![Percolation-informed infrastructure upgrade workflow](fig0_panel.png)
 
 In brief, the project:
 
